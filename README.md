@@ -1,6 +1,8 @@
 # bizicount
 Maximum likelihood estimation of copula-based bivariate zero-inflated (and non-inflated) count models Use bizicount With (In) R Software
 
+https://www.youtube.com/watch?v=ko476wn0cC0
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
